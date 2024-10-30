@@ -6,7 +6,7 @@ Python scripts that allow user to locally subset any given large corpus dataset 
 ## Table of Content:
 1. Pre-training:
    
-   a. corpus_creator_200k_seq.ipynb: This ipython script takes in 200,000 random complete SARS-CoV-2 genome sequences from GISAID genome database file and randomly splits the reads in each sequence to lengths between 0 and 512 bases long. The output of the script was written out to a csv format that is readable for the pre-training process.
+   a. corpus_creator_100k_seq.ipynb: This ipython script takes in 100,000 random complete SARS-CoV-2 genome sequences from GISAID genome database file and randomly splits the reads in each sequence to lengths between 0 and 512 bases long. The output of the script was written out to a csv format that is readable for the pre-training process.
    
    b. corpus_creator_one_seq.ipynb: This ipython script takes in one complete SARS-CoV-2 reference genome sequence from GISAID and randomly splits the reads in the reference genome to lengths between 0 and 512 bases long. The output of the script was written out to a csv format that is readable for the pre-training process.
    
