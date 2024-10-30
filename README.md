@@ -45,3 +45,6 @@ Python scripts that allow user to locally subset any given large corpus dataset 
 
    c. 3_divide_lineage_to_10_bins.ipynb: This ipython script that will take in csv file that contains valid RBD nucleotide sequences and protein sequences to compare Accession ID values with the metadata file to access Collection date value for each row and divide each Lineage group into 10 Generations unique to the lineage based on Collection date range.
 
+   <img width="1266" alt="Screenshot 2024-10-30 at 6 02 05 PM" src="https://github.com/user-attachments/assets/5677a57d-cb09-4c25-9e55-e096de2a928d">
+
+
